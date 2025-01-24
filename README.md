@@ -1,6 +1,10 @@
 # PhoneNow-Customer-Churn-Analysis-
 This analysis dives into the churn patterns, demographics, service preferences, and financial impact of various customer groups to provide actionable insights. 
 
+Service Dashboard                               |      Reveue Dashboard                                       |          Customer Dasboard
+:----------------------------------------------:|:-----------------------------------------------------------:|:------------------------------------------------------:
+![](https://github.com/Olowookere-Abidemi/PhoneNow-Customer-Churn-Analysis-/blob/main/Services-Dashboard.png)| ![](https://github.com/Olowookere-Abidemi/PhoneNow-Customer-Churn-Analysis-/blob/main/Revenue-Dashboard.png) | ![](https://github.com/Olowookere-Abidemi/PhoneNow-Customer-Churn-Analysis-/blob/main/Customer-Dashboard.png)
+
 ## Introduction
 
 Customer churn is one of the most pressing challenges for subscription-based businesses like PhoneNow. With a churn rate of 27%, retaining customers has become an opportunity to improve the bottom line and enhance long-term revenue potential. This report dives into the churn patterns, demographics, service preferences, and financial impact of various customer groups to provide actionable insights. It also outlines recommendations to address churn and create a more engaged and loyal customer base.
